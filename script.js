@@ -1,4 +1,4 @@
-%%writefile script.js
+ script.js
 document.addEventListener('DOMContentLoaded', () => {
     console.log('script.js loaded and DOM fully parsed');
 
@@ -196,4 +196,5 @@ document.addEventListener('DOMContentLoaded', () => {
             passwordInput.value = '';
         }
     });
+
 });
