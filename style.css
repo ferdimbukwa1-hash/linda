@@ -1,4 +1,4 @@
-%%writefile style.css
+style.css
 :root {
     --primary-color: #ff69b4; /* Hot Pink */
     --secondary-color: #8a2be2; /* Blue Violet */
@@ -196,3 +196,4 @@ section {
         font-size: 1.8em;
     }
 }
+
